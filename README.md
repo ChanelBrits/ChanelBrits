@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/ChanelBrits/ChanelBrits/blob/main/Chanel%20Brits.png" alt="banner that says Chanel Brits - entry-level software developer">
 
 <!--
 **ChanelBrits/ChanelBrits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
