@@ -58,6 +58,3 @@ Passionate software developer exploring the wonderful world of technology and cr
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
